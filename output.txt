@@ -1,0 +1,72 @@
+The path at iteration 3 is
+0	2	3	1	4	5	
+Total Number of Augmented Paths Needed:
+3
+Flow Value:
+4
+0	1	2
+0	2	2
+1	3	2
+1	4	1
+2	3	1
+2	4	1
+3	5	2
+4	5	2
+Min-Cut capacity:
+4
+2	0	
+3	4	1	5	
+The variant of max flow ford fulkerson
+Total Number of Augmented Paths Needed:
+3
+Flow Value:
+4
+0	1	2
+0	2	2
+1	3	2
+1	4	1
+2	3	1
+2	4	1
+3	5	2
+4	5	2
+Min-Cut capacity:
+4
+2	0	
+3	4	1	5	
+Thank you..The end
+The path at iteration 3 is
+0	2	3	1	4	5	
+Total Number of Augmented Paths Needed:
+3
+Flow Value:
+4
+0	1	2
+0	2	2
+1	3	2
+1	4	1
+2	3	1
+2	4	1
+3	5	2
+4	5	2
+Min-Cut capacity:
+4
+2	0	
+3	4	1	5	
+The variant of max flow ford fulkerson
+Total Number of Augmented Paths Needed:
+3
+Flow Value:
+4
+0	1	2
+0	2	2
+1	3	2
+1	4	1
+2	3	1
+2	4	1
+3	5	2
+4	5	2
+Min-Cut capacity:
+4
+2	0	
+3	4	1	5	
+Thank you..The end
